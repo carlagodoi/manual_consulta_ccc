@@ -1,0 +1,70 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>CENTRO DO CEREBRO E COLUNA</title>
+  </head>
+  
+<body>
+
+<h1><div><center> AGENDAMENTO POR TELEFONE CONSUTORIO</center></div></h1>
+
+<h2><center> Comecar o atendimento com: Centro do Cerebro e Coluna BOM DIA/BOA TARDE/BOA NOITE e o nome da(o) atendente.</center></h2>
+
+<p><a><b>MEDICOS</p></a></b>
+
+<a href= "file://server3c/TI/carla/Atendimento/Dr%20Spotti.html">Dr Antonio Spotti</a> <span style="background-color: #F78181">__</span> <span style="background-color: #14D4DA">__</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="background-color: #F78181">__</span></div> medicos que so atendem cabeca. 
+
+<p><a href= "file://server3c/TI/carla/Atendimento/Dr%20Eduardo%20Carlos.html">Dr Eduardo Carlos da Silva</a> <span style="background-color: #DF7401">__</span> <span style="background-color: #298A08">__</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="background-color: #DF7401">__</span> medicos que atendem iamspe.
+
+<p><a href= "file://server3c/TI/carla/Atendimento/Dr%20Sebastiao.html">Dr Sebastiao Carlos da Silva Junior</a> <span style="background-color: #DF0101">__</span> <span style="background-color: #DF7401">__</span> <span style="background-color: #D7DF01">__</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="background-color: #D7DF01">__</span> medicos que atendem cabeca e coluna mas preferem cabeca.	
+
+<p><a href= "file://server3c/TI/carla/Atendimento/Dr%20Mario%20Goes.html">Dr Mario Jose Goes</a> <span style="background-color: #DF0101">__</span> <span style="background-color: #D7DF01">__</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="background-color: #298A08">__</span> medicos que atendem cabeca e coluna mas preferem coluna.
+
+<p><a href= "file://server3c/TI/carla/Atendimento/Dr%20Sergio%20Ramin.html">Dr Sergio Luiz Ramin</a> <span style="background-color: #D7DF01">__</span> <span style="background-color: #0040FF">__</span> <span style="background-color: #B404AE">__</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="background-color: #0040FF">__</span> medicos que atendem bensaude.
+
+<p><a href= "file://server3c/TI/carla/Atendimento/Dr%20Dionei.html">Dr Dionei Freitas de Morais</a> <span style="background-color: #298A08">__</span> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="background-color: #B404AE">__</span> medicos que atendem crianca.
+
+<p><a href= "file://server3c/TI/carla/Atendimento/Dr%20Rocha.html">Dr Carlos Eduardo Dall Aglio Rocha</a> <span style="background-color: #D7DF01">__</span> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="background-color: #DF0101">__</span> medicos que nao ve exame sem laudo.
+
+<p><a href= "file://server3c/TI/carla/Atendimento/Dr%20Fernando.html">Dr Fernando Manuel Rana Filipe</a> <span style="background-color: #298A08">__</span> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="background-color: #14D4DA">__</span> AVC, Aneurisma e Nervos do trigemeo.
+
+<p><a href= "file://server3c/TI/carla/Atendimento/Dr%20Fabiano.html">Dr Fabiano Morais Nogueira</a> <span style="background-color: #298A08">__</span>
+
+<p><a href= "file://server3c/TI/carla/Atendimento/Dr%20Lucas.html">Dr Lucas Crociati Megui</a> <span style="background-color: #DF0101">__</span> <span style="background-color: #DF7401">__</span> <span style="background-color: #0040FF">__</span> <span style="background-color: #14D4DA">__</span>
+
+<p><a href= "file://server3c/TI/carla/Atendimento/Dr%20Ricardo.html">Dr Ricardo Lourenco Caramanti</a> <span style="background-color: #DF0101">__</span> <span style="background-color: #DF7401">__</span> <span style="background-color: #0040FF">__</span>
+
+<p><a href= "file://server3c/TI/carla/Atendimento/Dr%20Vinicius.html">Dr Vinicius Martins Fonseca</a> </span> <span style="background-color: #DF0101">__</span> <span style="background-color: #F78181">__</span> <span style="background-color: #0040FF">__</span> <span style="background-color: #B404AE">__</span>
+
+<p><a href= "file://server3c/TI/carla/Atendimento/Dr%20Guilherme.html">Dr Guilherme Perassa Gasque</a> </span > <span style="background-color: #DF0101">__</span> <span style="background-color: #DF7401">__</span> <span style="background-color: #F78181">__</span> <span style="background-color: #0040FF">__</span>
+
+<p><a href= "file://server3c/TI/carla/Atendimento/Dr%20Estephan.html">Dr Eduardo de Paula Estephan</a> </span> <span style="background-color: #DF0101">__</span> <span style="background-color: #F78181">__</span>  <span style="background-color: #0040FF">__</span> 
+
+<p><a href= "file://server3c/TI/carla/Atendimento/Dr%20Americo.html">Dr Americo dos Santos Poca D agua Filho</a> <span style="background-color: #DF0101">__</span> <span style="background-color: #D7DF01">__</span> <span style="background-color: #0040FF">__</span>
+
+<p><a href= "file://server3c/TI/carla/Atendimento/Dr%20Felipe%20Rodrigues.html">Dr Felipe Rodrigues</a> <span style="background-color: #0040FF">__</span>
+
+<p><a href= "file://server3c/TI/carla/Atendimento/Dr%20Gustavo%20Botelho.html">Dr Gustavo Sampaio Botelho</a> </span> <span style="background-color: #DF0101">__</span> <span style="background-color: #F78181">__</span> <span style="background-color: #0040FF">__</span> <span style="background-color: #B404AE">__</span>
+
+<p><a href= "file://server3c/TI/carla/Atendimento/Dr%20Matheus.html">Dr Matheus Rodrigo Laurenti</a> <span style="background-color: #0040FF">__</span> <span style="background-color: #DF0101">__</span>
+
+<p><a href= "file://server3c/TI/carla/Atendimento/Dr%20Paulo.html">Dr Paulo Rafael Condi</a> <span style="background-color: #DF0101">__</span> 
+
+<p><a href= "file://server3c/TI/CARLA/Atendimento/Dr%20Herbert.html">Dr. Herbert Cunha Moreira Santos</a>
+
+<p><a href= "file://server3c/TI/CARLA/Atendimento/Dr%20Demosthenes.html">Dr Denosthenes Santana Silva Junior</a>
+
+<p><a href= "file://server3c/TI/CARLA/Atendimento/Dr%20Victor.html">Dr Victor Beneditti Guimaraes</a>
+
+<center><Body background="logo da empresa.jpg">
+  
+
+
+  
+</body>
+</htm>
